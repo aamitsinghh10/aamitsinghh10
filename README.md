@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width=100% height=20%  src="https://previews.123rf.com/images/sergeybitos/sergeybitos1907/sergeybitos190700042/128187395-programming-concept-banner-software-web-development-programming-concept-programming-languages-java-c.jpg">
+![github-header-image](https://user-images.githubusercontent.com/47208399/189858148-2ba2a2af-422b-417c-a675-e54e6c58a05c.png)
 
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
