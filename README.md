@@ -1,4 +1,3 @@
-![github-header-image](https://user-images.githubusercontent.com/47208399/189858148-2ba2a2af-422b-417c-a675-e54e6c58a05c.png)
 
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
