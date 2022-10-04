@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitsinghh10&label=Profile%20views&color=0e75b6&style=flat" alt="aamitsinghh10" /> </p>
 
 - 🔭 I’m currently working on **my DSA Skills**
-- 🌱 I’m currently learning **SpringBoot,Hibernate,Maven,etc.**
+- 🌱 I’m currently learning **SpringBoot,Hibernate,MicroServices,etc.**
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, React.JS**
 - 📫 How to reach me **amitsingh.hw@gmail.com**
 
