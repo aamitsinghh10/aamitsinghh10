@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **my Backend skills**
 
-- 🌱 I’m currently learning **Hibernate, Spring Core, Spring JDBC, Spring MVC, Spring Boot, etc.**
+- 🌱 I’m currently learning **Hibernate, Spring Core, Spring JDBC, Spring MVC, Spring Boot, Microservices etc.**
 
-- 💬 Ask me about **Data Structures and Algorithms, JavaScipt, React.JS**
+- 💬 Ask me about **Data Structures and Algorithms, Springboot, Microservices, JavaScipt, React.JS**
 
 - 📫 How to reach me **amitsingh.hw@gmail.com**
 
